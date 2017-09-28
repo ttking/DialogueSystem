@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9367cbfd5970bf94b99ce442c0b8c9ef
+timeCreated: 1505805783
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NEXT ART
+  fontNames:
+  - NEXT ART
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 10ce12cdbe15e9e4f88be164a43d6d29, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
